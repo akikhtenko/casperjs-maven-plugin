@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ubs.opsit</groupId>
     <artifactId>casperjs-maven-plugin</artifactId>
-    <version>1.0-RC1</version>
+    <version>1.0.0</version>
     <name>CasperJS Maven plugin</name>
     <description>Runs JavaScript and/or CoffeScript test files on CasperJS instance</description>
     <packaging>maven-plugin</packaging>
